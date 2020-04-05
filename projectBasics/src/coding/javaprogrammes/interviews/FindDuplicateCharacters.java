@@ -10,7 +10,7 @@ public class FindDuplicateCharacters {
 		// TODO Auto-generated method stub
 		printDuplicateCharacters("Dharmendra");
 		printDuplicateCharacters("Charishma");
-		printDuplicateCharacters("Harshini");
+		printDuplicateCharacters("Laxmi");
 			}
 
 	private static void printDuplicateCharacters(String word) {
