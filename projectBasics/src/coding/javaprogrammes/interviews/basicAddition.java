@@ -13,7 +13,7 @@ public class basicAddition {
 
 	public static void main(String[] args) {
 		
-		 int n=8520908;
+		 int n=875497442;
 		 
 		 System.out.println(getSum(n));
 	}
